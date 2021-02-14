@@ -623,7 +623,7 @@ transition: width .2s ;
   }
 
   .inner-container {
-    padding: 60px 10px 10px 100px;
+    padding: 60px 10px 10px 60px;
   }
 
   /* last container */
