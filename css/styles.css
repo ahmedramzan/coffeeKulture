@@ -594,12 +594,17 @@ transition: width .2s ;
 
 /* MEDIA QUERIES */
 
-@media only screen and (max-width:420px) {
+@media only screen and (max-width:380px) {
   .col-content h1 {
     font-size: 73px;
     line-height: 51px;
   }
-  
+}
+@media only screen and (min-width:380px) and (max-width:430px)  {
+  .col-content h1 {
+    font-size: 90px;
+    line-height: 62px;
+  }
 }
 @media only screen and (max-width:768px) {
 
