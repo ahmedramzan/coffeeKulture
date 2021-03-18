@@ -593,6 +593,14 @@ transition: width .2s ;
 }
 
 /* MEDIA QUERIES */
+
+@media only screen and (max-width:420px) {
+  .col-content h1 {
+    font-size: 73px;
+    line-height: 51px;
+  }
+  
+}
 @media only screen and (max-width:768px) {
 
   /* menu */
